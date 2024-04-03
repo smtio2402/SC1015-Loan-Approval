@@ -10,8 +10,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - @smtio2402 - 
 
 ## Problem Definition
-- How can we predict the amount of loan that may be obtained by applicants?
-- How can we effectively predict the loan approval rate of the forecasted loan amount?
+- How can we **predict the amount of loan** that may be obtained by applicants?
+- How can we **effectively predict the loan approval rate** of the forecasted loan amount?
 
 ## Models Used
 1. Linear Regression Model
