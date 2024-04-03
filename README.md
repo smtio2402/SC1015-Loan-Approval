@@ -5,9 +5,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. 
 
 ## Contributors
-@lyh0805 - 
-@RaphelSim - 
-@smtio2402 - 
+- @lyh0805 - 
+- @RaphelSim - 
+- @smtio2402 - 
 
 ## Problem Definition
 - How can we predict the amount of loan that may be obtained by applicants?
