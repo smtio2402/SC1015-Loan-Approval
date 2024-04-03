@@ -6,11 +6,28 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. 
 
 ## Contributors
+@lyh0805 - 
+@RaphelSim - 
+@smtio2402 - 
+
 ## Problem Definition
+- How can we predict the amount of loan that may be obtained by applicants?
+- How can we effectively predict the loan approval rate of the forecasted loan amount?
+
 ## Models Used
+1. Linear Regression Model
+2. Decision Tree Model
+
 ## Product
+- 
+
 ## Conclusion
+- The multivariate decision tree did not significantly improve accuracy as compared to using the univariate decision tree.
+- It is possible to predict the amount of loan to be obtained and its approval rate using applicant's annual income and credit score.
+
 ## What did we learn from this project?
-## References
-1. predict approval rate of loan
-2. predict loan amount 
+- Collaborating using GitHub
+- Concepts about Accuracy, ___
+
+## References 
+- 
