@@ -7,15 +7,19 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 - @lyh0805 - 
 - @RaphelSim - 
-- @smtio2402 - 
+- @smtio2402 - slides, script, video
 
 ## Problem Definition
 - How can we **predict the amount of loan** that may be obtained by applicants?
 - How can we **effectively predict the loan approval rate** of the forecasted loan amount?
 
 ## Models Used
-1. Linear Regression Model
-2. Decision Tree Model
+1. Univariate Decision Tree Model
+2. Multivariate Decision Tree Model
+3. Univariate Linear Regression Model
+4. Multivariate Linear Regression Model
+5. Logistic Regression Model
+
 
 ## Product
 - 
