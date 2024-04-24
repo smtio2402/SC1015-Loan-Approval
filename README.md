@@ -1,7 +1,7 @@
 # Welcome to SC1015-Loan-Approval Repository
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Approval from [Loan Approval DataSet](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset). For detailed walkthrough, please view the source code in order from:
-1. [Data Extraction and Visualisation](1.Data_Extraction_and_Visualisation.ipynb)
+1. [Data Cleaning and Exploratory Analysis](1.Mini Project - Data Cleaning and Exploratory Analysis.ipynb)
 2. 
 
 ## Contributors
