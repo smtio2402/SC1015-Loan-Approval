@@ -6,13 +6,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. Compiled 
 
 ## Contributors
-- @lyh0805 - 
-- @RaphelSim - 
+- @lyh0805 - Data Cleaning and Exploratory Analysis
+- @RaphelSim - Machine Learning
 - @smtio2402 - slides, script, video
 
 ## Problem Definition
-- How can we **predict the amount of loan** that may be obtained by applicants?
-- How can we **effectively predict the loan approval rate** of the forecasted loan amount?
+- How Can We **Effectively Predict Applicants’ Approval Rate** of Receiving a Loan?
+- How Can We **Predict the Amount of Loan** that May Be Obtained by Applicants?
 
 ## Models Used
 1. Univariate Decision Tree Model
@@ -26,12 +26,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - 
 
 ## Conclusion
-- The multivariate decision tree did not significantly improve accuracy as compared to using the univariate decision tree.
+- 
 - It is possible to predict the amount of loan to be obtained and its approval rate using applicant's annual income and credit score.
 
 ## What did we learn from this project?
 - Collaborating using GitHub
-- Concepts about Accuracy, ___
+- Concepts about Accuracy, Reliability
 
 ## References 
 - 
